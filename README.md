@@ -7,11 +7,15 @@ The repository contains multiple jupyter notebook , explaining various python li
           Importing and Exporting Data in Python,
           Getting Started Analyzing Data in Python, Python Packages for Data Analysis.
 # The second notebook(Data-Wrangling.ipynb) covers :
-        <ol>  Identify and Handle Missing Values,
+            Identify and Handle Missing Values,
             Data Formatting,
             Data Normalization,
             Binning,
             Indicator variables.
-          </ol>
+ # The third notebook (exploratory-data-analysis.ipynb) covers :
+            Descriptive Statistics
+            Basic of Grouping
+            ANOVA
+            Correlation
 
 
