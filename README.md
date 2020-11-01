@@ -6,4 +6,11 @@ The first notebook (introduction.ipynb) covers :
           Introduction to data that will be used throughout this repository, 
           Importing and Exporting Data in Python,
           Getting Started Analyzing Data in Python, Python Packages for Data Analysis.
-          
+The second notebook(Data-Wrangling.ipynb) covers :
+          Identify and Handle Missing Values,
+          Data Formatting,
+          Data Normalization,
+          Binning,
+          Indicator variables.
+
+
