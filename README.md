@@ -5,7 +5,8 @@ The repository contains multiple jupyter notebook , explaining various python li
 # Dataset :
            https://www.un.org/en/development/desa/population/migration/data/empirical2/migrationflows.asp
            The dataset contains annual data on the flows of international migrants as recorded by the countries of destination. 
-           The data presents both inflows and outflows according to the place of birth, citizenship or place of previous / next residence both for foreigners and nationals.
+           The data presents both inflows and outflows according to the place of birth, 
+           citizenship or place of previous / next residence both for foreigners and nationals.
            Here we will focus on the Canadian Immigration data.
 
 # The first notebook (introduction.ipynb) covers : 
