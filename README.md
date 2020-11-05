@@ -4,7 +4,8 @@ The repository will help any aspiring data analyst, to understand Python librari
 The repository contains multiple jupyter notebook , explaining various python libraries used in data analysis.
 # Dataset :
            https://www.un.org/en/development/desa/population/migration/data/empirical2/migrationflows.asp
-           The dataset contains annual data on the flows of international migrants as recorded by the countries of destination. 
+           The dataset contains annual data on the flows of international migrants
+           as recorded by the countries of destination. 
            The data presents both inflows and outflows according to the place of birth, 
            citizenship or place of previous / next residence both for foreigners and nationals.
            Here we will focus on the Canadian Immigration data.
@@ -24,5 +25,13 @@ The repository contains multiple jupyter notebook , explaining various python li
             Basic of Grouping
             ANOVA
             Correlation
+ # The fourth notebook (model-development.ipynb) covers :
+           
+       Simple and Multiple Linear Regression
+       Model Evaluation Using Visualization
+       Polynomial Regression and Pipelines
+       R-squared and MSE for In-Sample Evaluation
+       Prediction and Decision Making
+
 
 
