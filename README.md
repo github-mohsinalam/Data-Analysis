@@ -31,6 +31,11 @@ Indicator variables.
  Polynomial Regression and Pipelines,
  R-squared and MSE for In-Sample Evaluation,
  Prediction and Decision Making.
-
+# The fifth notebook (model-evaluation-and-refinement.ipynb):
+Model Evaluation,
+Over-fitting, Under-fitting and Model Selection,
+Ridge Regression,
+Grid Search,
+Model Refinement.
 
 
