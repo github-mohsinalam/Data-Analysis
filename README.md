@@ -10,32 +10,32 @@ The repository contains multiple jupyter notebook , explaining various python li
  citizenship or place of previous / next residence both for foreigners and nationals.
  Here we will focus on the Canadian Immigration data.
 
-# The first notebook (introduction.ipynb) covers : 
-Introduction to data that will be used throughout this repository, 
-Importing and Exporting Data in Python,
-Getting Started Analyzing Data in Python, Python Packages for Data Analysis.
-# The second notebook(Data-Wrangling.ipynb) covers :
-Identify and Handle Missing Values,
-Data Formatting,
-Data Normalization,
-Binning,
-Indicator variables.
- # The third notebook (exploratory-data-analysis.ipynb) covers :
- Descriptive Statistics,
- Basic of Grouping,
- ANOVA,
- Correlation.
- # The fourth notebook (model-development.ipynb) covers :    
- Simple and Multiple Linear Regression,
- Model Evaluation Using Visualization,
- Polynomial Regression and Pipelines,
- R-squared and MSE for In-Sample Evaluation,
- Prediction and Decision Making.
-# The fifth notebook (model-evaluation-and-refinement.ipynb) covers:
-Model Evaluation,
-Over-fitting, Under-fitting and Model Selection,
-Ridge Regression,
-Grid Search,
-Model Refinement.
+## The first notebook (introduction.ipynb) covers : 
+- Introduction to data that will be used throughout this repository, 
+- Importing and Exporting Data in Python,
+- Getting Started Analyzing Data in Python, Python Packages for Data Analysis.
+## The second notebook(Data-Wrangling.ipynb) covers :
+- Identify and Handle Missing Values,
+- Data Formatting,
+- Data Normalization,
+- Binning,
+- Indicator variables.
+ ## The third notebook (exploratory-data-analysis.ipynb) covers :
+ - Descriptive Statistics,
+ - Basic of Grouping,
+ - ANOVA,
+ - Correlation.
+ ## The fourth notebook (model-development.ipynb) covers :    
+ - Simple and Multiple Linear Regression,
+ - Model Evaluation Using Visualization,
+ - Polynomial Regression and Pipelines,
+ - R-squared and MSE for In-Sample Evaluation,
+ - Prediction and Decision Making.
+## The fifth notebook (model-evaluation-and-refinement.ipynb) covers:
+- Model Evaluation,
+- Over-fitting, Under-fitting and Model Selection,
+- Ridge Regression,
+- Grid Search,
+- Model Refinement.
 
 
